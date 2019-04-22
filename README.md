@@ -1,10 +1,10 @@
 HackintoshClover
 
-[![](https://img.shields.io/badge/license-CC%204.0-green.svg)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
+[![](https://img.shields.io/badge/license-CC%204.0-green.svg)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)[![](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![](https://img.shields.io/badge/platform-markdown-blue.svg)](https://shields.io/category/chat)
 [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE-orange.svg)](http://www.tangmen.online/)
 [![](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-%E7%88%AA%E5%93%87%E6%B4%BE%E7%94%9F-lightgrey.svg)]()
-[![](https://img.shields.io/badge/%E6%96%B0%E5%8D%9A%E5%AE%A2-%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE-orange.svg)](http://www.zhuimeng.online/)
+[![](https://img.shields.io/badge/%E6%96%B0%E5%8D%9A%E5%AE%A2-%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE-orange.svg)](http://www.zhuimeng.online/)[![](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 这个项目分享整理一些黑苹果Clover驱动配置文件，和一些相关的工具、文件等等。上传这些文件仅供大家参考使用，希望大家的黑苹果上少走一些弯路。
 
@@ -36,7 +36,22 @@ HackintoshClover
 [![](https://img.shields.io/badge/osx86-welcome-green.svg)](https://www.osx86.net/)
 [![](https://img.shields.io/badge/aquamac-welcome-yellowgreen.svg)](http://aquamac.proboards.com/)[![](<https://img.shields.io/badge/RehabMan-GitHub-yellow.svg>)](<https://github.com/RehabMan>)[![](<https://img.shields.io/badge/%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%AE%89%E8%A3%85%E5%AD%A6%E9%99%A2-GitHub-lightgrey.svg>)](<https://github.com/huangyz0918/Hackintosh-Installer-University/blob/master/README-CN.md>)
 
+# nVidia更新
+
+在macOS上安装nVidia驱动程序的最简单方法。
+
+# 怎样使用？
+
+只需将以下内容复制并粘贴到终端中即可：
+
+```
+bash <(curl -s https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/master/nvidia-update.sh)
+```
+
+具体请访问👉[nvidia-update](<https://github.com/Benjamin-Dobell/nvidia-update>)
+
 # 如何下载指定文件夹
+
 📢 简单的页面 [DownGit](https://minhaskamal.github.io/DownGit/#/home)： 只需要找到仓库中对应文件夹的 url, 输入之后, 自动打包下载。
 
 🔔 这里只要代理到位，经过测试百分百是可以下载下来的，只要耐心地等待DownGit去解析完所有文件即可，下载不下来的小伙伴可以研究下Git或者代理软件的使用。
