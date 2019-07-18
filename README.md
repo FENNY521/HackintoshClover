@@ -1,10 +1,11 @@
 HackintoshClover
 
-[![](https://img.shields.io/badge/license-CC%204.0-green.svg)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)[![](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+[![](https://img.shields.io/badge/license-CC%204.0-green.svg)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
+[![](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![](https://img.shields.io/badge/platform-markdown-blue.svg)](https://shields.io/category/chat)
-[![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE-orange.svg)](http://www.tangmen.online/)
+[![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE-orange.svg)](http://www.zhuimeng.online/)
 [![](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-%E7%88%AA%E5%93%87%E6%B4%BE%E7%94%9F-lightgrey.svg)]()
-[![](https://img.shields.io/badge/%E6%96%B0%E5%8D%9A%E5%AE%A2-%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE-orange.svg)](http://www.zhuimeng.online/)[![](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+[![](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 这个项目分享整理一些黑苹果Clover驱动配置文件，和一些相关的工具、文件等等。上传这些文件仅供大家参考使用，希望大家的黑苹果上少走一些弯路。
 
@@ -23,7 +24,8 @@ HackintoshClover
 # 论坛、博客、开源项目快速访问(。・∀・)ノ
 📢 这里将放上一些各大论坛、各位大佬的博客、开源项目的快速访问链接。有很多我可能不知道，欢迎及时告知我，以便各位同学们更加方便地访问，并知道有这样的一些地方可以为他们提供学习、下载。还有，我不喜欢搞排名，不要说啥顺序的问题，反正又不是赚钱的，大家想去哪儿看就去哪儿看！
 
-[![](<https://img.shields.io/badge/Hackintosh-wikipedia-brightgreen.svg>)](<https://en.wikipedia.org/wiki/Hackintosh>)[![](https://img.shields.io/badge/pcbeta-welcom-green.svg)](http://bbs.pcbeta.com/index.php?gid=86)
+[![](<https://img.shields.io/badge/Hackintosh-wikipedia-brightgreen.svg>)](<https://en.wikipedia.org/wiki/Hackintosh>)
+[![](https://img.shields.io/badge/pcbeta-welcom-green.svg)](http://bbs.pcbeta.com/index.php?gid=86)
 [![](https://img.shields.io/badge/%E9%BB%91%E6%9E%9C%E5%B0%8F%E5%85%B5-welcome-brightgreen.svg)](https://blog.daliansky.net/)
 [![](https://img.shields.io/badge/%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%A9%BA%E9%97%B4-welcome-yellowgreen.svg)](http://vrguge.com/)
 [![](https://img.shields.io/badge/%E9%BB%91%E8%8B%B9%E6%9E%9C%E4%B9%90%E5%9B%AD-welcome-yellow.svg)](https://imac.hk/)
@@ -34,7 +36,9 @@ HackintoshClover
 [![](https://img.shields.io/badge/OSx86Project-welcome-ff69b4.svg)](http://www.osx86project.org/)
 [![](https://img.shields.io/badge/Hackintosh-welcome-brightgreen.svg)](https://hackintosh.com/)
 [![](https://img.shields.io/badge/osx86-welcome-green.svg)](https://www.osx86.net/)
-[![](https://img.shields.io/badge/aquamac-welcome-yellowgreen.svg)](http://aquamac.proboards.com/)[![](<https://img.shields.io/badge/RehabMan-GitHub-yellow.svg>)](<https://github.com/RehabMan>)[![](<https://img.shields.io/badge/%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%AE%89%E8%A3%85%E5%AD%A6%E9%99%A2-GitHub-lightgrey.svg>)](<https://github.com/huangyz0918/Hackintosh-Installer-University/blob/master/README-CN.md>)
+[![](https://img.shields.io/badge/aquamac-welcome-yellowgreen.svg)](http://aquamac.proboards.com/)
+[![](<https://img.shields.io/badge/RehabMan-GitHub-yellow.svg>)](<https://github.com/RehabMan>)
+[![](<https://img.shields.io/badge/%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%AE%89%E8%A3%85%E5%AD%A6%E9%99%A2-GitHub-lightgrey.svg>)](<https://github.com/huangyz0918/Hackintosh-Installer-University/blob/master/README-CN.md>)
 
 # nVidia更新
 
